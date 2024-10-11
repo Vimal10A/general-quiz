@@ -1,0 +1,12 @@
+[
+    {
+        "q":"What is capital of India?",
+        "opt":["Chennai","New Delhi","Bombay","Calcutta"],
+        "ans":"New Delhi"
+    },
+    {
+        "q":"What is capital of TamilNadu?",
+        "opt":["Chennai","Madurai","Coimbatore","Trichy"],
+        "ans":"Chennai"
+    }
+]
